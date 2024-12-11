@@ -43,8 +43,8 @@ Record a short video of your abstract art animation to display here on your READ
 - Upload the thumbnail image to your repo.
 - Use the following markdown
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+[![Thumbnail for my projet](mq3.png)]((https://youtu.be/XgDe1keiBqk))
 
 ## Description
 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+The purpose of this project was to find a creative way to display information from a data set. I used a data set from code.org that displayed a list of board games. I only used 100 of them. I also used the list of names, minimum players, maximum players, and average game time. The project addressed the user goals by displaying basic information about a randomly generated game from the list. I created 1D arrays to display each of the different txt files.
